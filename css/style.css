@@ -37,6 +37,14 @@ body, html {
   background: #125688;
   color: white;
 }
+
+
+#testimonial{
+    text-align: center;
+	padding: 100px 0 40px 0;
+	color: #121d1f;
+	background: #f6f6f6    ;
+}
 h1 {
 	font-weight: 700;
 }
@@ -242,7 +250,7 @@ hr {
 	color: #fff;
 }
 #skills hr {
-	background: rgba(255,255,255,0.3);
+	background: #f6f6f6;
 }
 #skills .skill {
 	margin-bottom: 40px;
@@ -441,6 +449,9 @@ ol.type li a:hover {
 	padding: 100px 0;
 	background: #76D7C4;
 }
+#resume hr {
+	background: #f6f6f6;
+}
 .timeline {
 	position: relative;
 	padding: 0;
@@ -544,13 +555,13 @@ ol.type li a:hover {
 #contact {
 	padding: 100px 0 40px 0;
 	color: #121d1f;
-	background: #f6f6f6    ;
+	background: #76D7C4    ;
 }
 #contact h2 {
 	color: 76D7C4;
 }
 #contact hr {
-	background: rgba(255,255,255,0.3);
+	background: #f6f6f6;
 }
 #contact h3 {
 	padding-top: 20px;

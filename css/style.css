@@ -241,6 +241,28 @@ hr {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
+
+/* ctivities Section */
+#activities {
+	padding: 100px 0;
+	background: #121d1f    ;
+}
+#activities h2 {
+	color: #fff;
+}
+#activities hr {
+	background: #f6f6f6;
+}
+#activities .activities {
+	margin-bottom: 40px;
+	text-align: center;
+	padding: 0px;
+}
+#activities .activities h4 {
+	font-weight: 600;
+	color: #fff;
+}
+
 /* Skills Section */
 #skills {
 	padding: 100px 0;
